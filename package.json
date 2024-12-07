@@ -17,7 +17,7 @@
     "postinstall": "husky install"
   },
   "contributors": [],
-  "license": "GNU General Public License v3.0",
+  "license": "MIT License",
   "repository": {
     "type": "git",
     "url": "git@github.com:CrosSt-Chat/CSC-main.git"

@@ -36,7 +36,7 @@
 
 ## 开源协议
 
-十字街聊天室遵循 [GNU Public License v3.0](./LICENSE) 开放源代码。
+十字街-TS遵循 [MIT License](./LICENSE) 开放源代码。
 
 
 ## License

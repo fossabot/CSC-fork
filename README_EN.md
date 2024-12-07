@@ -60,4 +60,4 @@ We extend our gratitude to the official CrosSt Street project for making the sou
 
 ## License
 
-CrosSt Street Chatroom is licensed under the [GNU Public License v3.0](./LICENSE).
+CrosSt Street Chatroom is licensed under the [MIT License](./LICENSE).
