@@ -3,6 +3,8 @@
 [EN](./README_EN.md)
 
 # 十字街聊天室 - TypeScript
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHex-0xd3ac%2FCSC-fork.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHex-0xd3ac%2FCSC-fork?ref=badge_shield)
+
 
 十字街TS版本是[十字街官方版本](https://github.com/CrosSt-Chat/CSC-main/)的一个Fork,主要将源项目JavaScript改为TypeScript,添加网页服务器等.
 
@@ -35,3 +37,7 @@
 ## 开源协议
 
 十字街聊天室遵循 [GNU Public License v3.0](./LICENSE) 开放源代码。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHex-0xd3ac%2FCSC-fork.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHex-0xd3ac%2FCSC-fork?ref=badge_large)
